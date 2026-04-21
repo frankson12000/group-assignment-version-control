@@ -7,3 +7,8 @@ box-sizing: border-box;
     background-color: blue;
     font-weight: 600;
 }
+
+.about2 h2 {
+    background-color: red;
+    color: azure;
+}
